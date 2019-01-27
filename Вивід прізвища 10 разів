@@ -6,4 +6,7 @@ using namespace std;
  	for(int x=0; x<10;x++){
  	cout<<"Кравець"<<endl;
  	}
+  cout << "\n\n\t";
+ system("pause");
+ return 0;
  }
